@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-app-with-firebase-backend/static/css/main.83d28eae.css",
+    "main.js": "/react-app-with-firebase-backend/static/js/main.3234df71.js",
+    "index.html": "/react-app-with-firebase-backend/index.html",
+    "main.83d28eae.css.map": "/react-app-with-firebase-backend/static/css/main.83d28eae.css.map",
+    "main.3234df71.js.map": "/react-app-with-firebase-backend/static/js/main.3234df71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d28eae.css",
+    "static/js/main.3234df71.js"
+  ]
+}
